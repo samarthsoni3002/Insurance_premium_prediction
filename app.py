@@ -18,8 +18,6 @@ scaler_model = pickle.load(open("./scalerModel.pkl","rb"))
 def home():
     return render_template("index.html")
  
-
-
 @app.route("/predict_model",methods=["POST"])
 def predict_model():
     age = float(request.form["age"])
