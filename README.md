@@ -23,6 +23,12 @@ The goal of this project is to give people an estimate of how much they need bas
 The Dataset is available on Kaggle.
 Dataset Link:- https://www.kaggle.com/datasets/noordeen/insurance-premium-prediction
 
+# Screenshots
+![image](https://github.com/user-attachments/assets/4fe86a21-5c4e-4615-8963-74ed0b1795e0)
+
+![image](https://github.com/user-attachments/assets/a99cc429-b15e-4748-a84f-a6ba0035c2c4)
+
+
 # Deployment Link
 
 https://insurance-premium-prediction-op8i.onrender.com
