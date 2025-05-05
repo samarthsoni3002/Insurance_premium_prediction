@@ -1,8 +1,5 @@
-flask 
-scikit-learn==1.0.2
+Flask
+numpy
 pandas
-numpy 
-matplotlib
-seaborn 
-pickle-mixin
-gunicorn 
+scikit-learn
+gunicorn
